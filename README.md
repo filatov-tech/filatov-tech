@@ -59,6 +59,8 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filatov-tech&mode=weekly)](https://git.io/streak-stats)
+<br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/filatov_dd?theme=light&font=Baloo%20Chettan%202&ext=activity)
 
 
 
