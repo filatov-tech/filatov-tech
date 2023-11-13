@@ -2,19 +2,19 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhiaDd1cGRzczN1Njd0d2UxdXp2bW5ncjd4Y21nMDZiZHNueGl1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
-  <a style="text-decoration:none href="https://www.linkedin.com/in/filatov-tech/">
+  <a style="text-decoration:none" href="https://www.linkedin.com/in/filatov-tech/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a style="text-decoration:none href="https://wa.me/79199662369">
+  <a style="text-decoration:none" href="https://wa.me/79199662369">
     <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a style="text-decoration:none href="https://t.me/filatov_dd">
+  <a style="text-decoration:none" href="https://t.me/filatov_dd">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a style="text-decoration:none href="https://leetcode.com/filatov_dd/">
+  <a style="text-decoration:none" href="https://leetcode.com/filatov_dd/">
     <img src="https://img.shields.io/badge/Leetcode-gray?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <a style="text-decoration:none href="https://filatov.tech/">
+  <a style="text-decoration:none" href="https://filatov.tech/">
     <img src="https://img.shields.io/badge/FILATOV.TECH-958976?style=for-the-badge" alt="Personal Site Badge"/>
   </a> 
 </div>
