@@ -43,6 +43,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![Spring Security](https://img.shields.io/badge/security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&label=spring&labelColor=6DB33F&color=DCEDCF)
 ![Spring MVC](https://img.shields.io/badge/mvc-6DB33F?style=for-the-badge&logo=spring&logoColor=white&label=spring&labelColor=6DB33F&color=DCEDCF)
 ![Spring Data JPA](https://img.shields.io/badge/data_jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white&label=spring&labelColor=6DB33F&color=DCEDCF)
+![Hibernate](https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
